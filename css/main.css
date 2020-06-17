@@ -33,9 +33,6 @@ body {
   font-weight: 700;
   color: #2e2e2e;
 }
-.relative {
-  position: relative;
-}
 .header {
   position: relative;
   padding-top: 60px;
@@ -248,7 +245,6 @@ body {
           border-radius: 50%;
 }
 .section-functional {
-  position: relative;
   padding: 107px 0 63px;
   background-color: #fff;
   /* Фоновое изображение */
@@ -306,17 +302,14 @@ body {
   padding-top: 7px;
   margin-bottom: 46px;
 }
-.benefit-img-padding-left {
-  padding-left: 10px;
-}
-.benefit-heading {
+.benefit h4 {
   font-size: 16px;
   text-align: center;
   font-weight: 700;
   color: #2e2e2e;
   margin-bottom: 26px;
 }
-.benefit-subscribe {
+.benefit p {
   font-size: 14px;
   line-height: 2.143;
   font-weight: 500;
